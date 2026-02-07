@@ -10,7 +10,7 @@ window.SupportFinder.forceRefresh = function() {
 
 window.SupportFinder.manualSupportData = [
     {
-    title: "경상남도 농어업인수당 지원금",
+    title: "경상남도 농어업인수당 지원금1",
     description: "농어업경영체에 등록된 경영주 및 공동경영주",
     amount: " 연 30만원",
     deadline: "",
